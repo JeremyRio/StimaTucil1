@@ -5,6 +5,7 @@
 * [Deskripsi](#deskripsi)
 * [Requirements](#requirements)
 * [Penggunaan](#penggunaan)
+* [Penulis](#penulis)
 
 ## Deskripsi
 Membuat program untuk menemukan semua kata di dalam word search puzzle menggunakan algoritma _Brute Force_ 
@@ -41,12 +42,18 @@ Jalankan `run.bat` pada folder `bin` untuk memulai program _Word Search Puzzle_
 
 ### B. Melalui **PowerShell** (**Windows**)
 1. Atur path folder menjadi `Tucil1_13520082`
-2. Jalankan perintah:
+2. Jalankan perintah berikut untuk memulai program _Word Search Puzzle_:
 ```
 $ javac -d bin src/Puzzle.java
 $ java -cp bin Puzzle
 ```
 
+### Langkah Penggunaan Program
+1. Jika ingin menambahkan **studi kasus**, masukkan **studi kasus** dalam folder `test` dengan ekstensi `.txt`. Contohnya `small1.txt`
+2. Jalankan program melalui cara **A** atau cara **B** yang telah disinggung sebelumnya
+3. Masukkan nama file tanpa mencantumkan ekstensi `.txt`
 
-
+# Penulis
+Nama: Jeremy Rionaldo Pasaribu </br>
+NIM: 13520082
 
