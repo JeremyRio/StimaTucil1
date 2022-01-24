@@ -14,8 +14,6 @@ Membuat program untuk menemukan semua kata di dalam word search puzzle menggunak
 - [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/downloads/)
 
 ## Penggunaan
-### A. Melalui _Batch File_ / `run.bat` (**Windows**)
-`run.bat` akan melakukan kompilasi program secara otomatis melalui **Powershell**. </br></br>
 **[PENTING]** </br>
 Sebagian besar console **Windows 10** tidak menyalakan dukungan ANSI escape untuk pewarnaan tulisan dalam terminal. </br>
 Agar **Powershell** dapat mendukung pewarnaan tulisan, pengguna harus mengikut langkah berikut ([referensi](https://stackoverflow.com/questions/51680709/colored-text-output-in-powershell-console-using-ansi-vt100-codes)):
@@ -37,7 +35,18 @@ Agar **Powershell** dapat mendukung pewarnaan tulisan, pengguna harus mengikut l
 ![image](https://user-images.githubusercontent.com/73146752/150827213-e8259d27-cf09-4449-a610-4fcf5702a05c.png)
 ![image](https://user-images.githubusercontent.com/73146752/150827266-b4c10e17-72c5-4fdb-8484-59e7721c2ac7.png)
 
-5. Jalankan `run.bat` pada folder `bin` dalam folder utama
+### A. Melalui _Batch File_ / `run.bat` (**Windows**)
+`run.bat` akan melakukan kompilasi program secara otomatis melalui **Powershell**.</br>
+Jalankan `run.bat` pada folder `bin` untuk memulai program _Word Search Puzzle_
+
+### B. Melalui **PowerShell** (**Windows**)
+1. Atur path folder menjadi `Tucil1_13520082`
+2. Jalankan perintah:
+```
+$ javac -d bin src/Puzzle.java
+$ java -cp bin Puzzle
+```
+
 
 
 
