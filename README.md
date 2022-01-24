@@ -1,12 +1,16 @@
 # Tugas Kecil 1 IF2211 Strategi Algoritma
-> Penyelesaian Word Search Puzzle dengan Algoritma Brute Force
+> Penyelesaian _Word Search Puzzle_ dengan Algoritma _Brute Force_
 
 ## Daftar Isi
 * [Deskripsi](#deskripsi)
-* [Teknologi Digunakan](#teknologi-digunakan)
-* [Tampilan Website](#tampilan-website)
-* [Setup](#setup)
-* [Penulis](#penulis)
+* [Requirements](#requirements)
+* [Penggunaan](#penggunaan)
 
 ## Deskripsi
-Membuat program untuk menemukan semua kata di dalam word search puzzle menggunakan algoritma _ _Brute Force_ _ 
+Membuat program untuk menemukan semua kata di dalam word search puzzle menggunakan algoritma _Brute Force_ 
+
+## Requirements
+- [Java](https://www.java.com/en/download/)
+- [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/downloads/)
+
+## Penggunaan
