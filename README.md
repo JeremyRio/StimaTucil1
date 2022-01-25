@@ -16,8 +16,7 @@ Membuat program untuk menemukan semua kata di dalam word search puzzle menggunak
 
 ## Penggunaan
 **[PENTING]** </br>
-Program hanya dapat dijalankan dalam sistem operasi **Windows**. Sebagian besar console **Windows 10** tidak menyalakan dukungan ANSI escape untuk pewarnaan tulisan dalam terminal. </br>
-Agar terminal **Windows 10** dapat mendukung pewarnaan tulisan, pengguna harus mengikut langkah berikut ([referensi](https://stackoverflow.com/questions/51680709/colored-text-output-in-powershell-console-using-ansi-vt100-codes)):
+Program hanya dapat dijalankan dalam sistem operasi **Windows**. Sebagian besar console **Windows 10** tidak menyalakan dukungan ANSI escape untuk pewarnaan tulisan dalam terminal. Agar terminal **Windows 10** dapat mendukung pewarnaan tulisan, pengguna harus mengikut langkah berikut ([referensi](https://stackoverflow.com/questions/51680709/colored-text-output-in-powershell-console-using-ansi-vt100-codes)):
 1. Buka **Registry Editor** (Bisa melalui `Windows StartMenu` atau menekan `Win + R` lalu menulis `regedit`)
 
 ![image](https://user-images.githubusercontent.com/73146752/150823809-bfa17783-439e-44e8-903c-8d07e382ae50.png)
@@ -37,10 +36,10 @@ Agar terminal **Windows 10** dapat mendukung pewarnaan tulisan, pengguna harus m
 ![image](https://user-images.githubusercontent.com/73146752/150827266-b4c10e17-72c5-4fdb-8484-59e7721c2ac7.png)
 
 ### A. Melalui _Batch File_ / `run.bat` (**Windows**)
-`run.bat` akan melakukan kompilasi program secara otomatis melalui **Powershell**.</br>
+`run.bat` akan melakukan kompilasi program secara otomatis melalui **Command Prompt**.</br>
 Jalankan `run.bat` pada folder `bin` untuk memulai program _Word Search Puzzle_
 
-### B. Melalui **Command Prompt** (**Windows**)
+### B. Melalui **Command Prompt/Powershell** (**Windows**)
 1. Atur path folder menjadi `Tucil1_13520082`
 2. Jalankan perintah berikut untuk memulai program _Word Search Puzzle_:
 ```
