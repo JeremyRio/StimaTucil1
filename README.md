@@ -40,7 +40,7 @@ Agar terminal **Windows 10** dapat mendukung pewarnaan tulisan, pengguna harus m
 `run.bat` akan melakukan kompilasi program secara otomatis melalui **Powershell**.</br>
 Jalankan `run.bat` pada folder `bin` untuk memulai program _Word Search Puzzle_
 
-### B. Melalui **PowerShell/Command Prompt** (**Windows**)
+### B. Melalui **Command Prompt** (**Windows**)
 1. Atur path folder menjadi `Tucil1_13520082`
 2. Jalankan perintah berikut untuk memulai program _Word Search Puzzle_:
 ```
