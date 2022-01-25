@@ -16,8 +16,8 @@ Membuat program untuk menemukan semua kata di dalam word search puzzle menggunak
 
 ## Penggunaan
 **[PENTING]** </br>
-Sebagian besar console **Windows 10** tidak menyalakan dukungan ANSI escape untuk pewarnaan tulisan dalam terminal. </br>
-Agar **Powershell** dapat mendukung pewarnaan tulisan, pengguna harus mengikut langkah berikut ([referensi](https://stackoverflow.com/questions/51680709/colored-text-output-in-powershell-console-using-ansi-vt100-codes)):
+Program hanya dapat dijalankan dalam sistem operasi **Windows**. Sebagian besar console **Windows 10** tidak menyalakan dukungan ANSI escape untuk pewarnaan tulisan dalam terminal. </br>
+Agar terminal **Windows 10** dapat mendukung pewarnaan tulisan, pengguna harus mengikut langkah berikut ([referensi](https://stackoverflow.com/questions/51680709/colored-text-output-in-powershell-console-using-ansi-vt100-codes)):
 1. Buka **Registry Editor** (Bisa melalui `Windows StartMenu` atau menekan `Win + R` lalu menulis `regedit`)
 
 ![image](https://user-images.githubusercontent.com/73146752/150823809-bfa17783-439e-44e8-903c-8d07e382ae50.png)
@@ -40,7 +40,7 @@ Agar **Powershell** dapat mendukung pewarnaan tulisan, pengguna harus mengikut l
 `run.bat` akan melakukan kompilasi program secara otomatis melalui **Powershell**.</br>
 Jalankan `run.bat` pada folder `bin` untuk memulai program _Word Search Puzzle_
 
-### B. Melalui **PowerShell** (**Windows**)
+### B. Melalui **PowerShell/Command Prompt** (**Windows**)
 1. Atur path folder menjadi `Tucil1_13520082`
 2. Jalankan perintah berikut untuk memulai program _Word Search Puzzle_:
 ```
@@ -52,6 +52,7 @@ $ java -cp bin Puzzle
 1. Jika ingin menambahkan **studi kasus**, masukkan **studi kasus** dalam folder `test` dengan ekstensi `.txt`. Contohnya `small1.txt`
 2. Jalankan program melalui cara **A** atau cara **B** yang telah disinggung sebelumnya
 3. Masukkan nama file tanpa mencantumkan ekstensi `.txt`
+4. Selamat melihat program menyelesaikan _Word Search Puzzle_ :)
 
 # Penulis
 Nama: Jeremy Rionaldo Pasaribu </br>
