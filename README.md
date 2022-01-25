@@ -40,11 +40,11 @@ Program hanya dapat dijalankan dalam sistem operasi **Windows**. Sebagian besar 
 Jalankan `run.bat` pada folder `bin` untuk memulai program _Word Search Puzzle_
 
 ### B. Melalui **Command Prompt/Powershell** (**Windows**)
-1. Atur path folder menjadi `Tucil1_13520082`
+1. Atur path folder menjadi `Tucil1_13520082/bin`
 2. Jalankan perintah berikut untuk memulai program _Word Search Puzzle_:
 ```
-$ javac -d bin src/Puzzle.java
-$ java -cp bin Puzzle
+$ javac -d ../bin ../src/Puzzle.java
+$ java -cp ../bin Puzzle
 ```
 
 ### Langkah Penggunaan Program
