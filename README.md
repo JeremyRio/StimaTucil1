@@ -51,7 +51,7 @@ java -cp ../bin Puzzle
 ### Langkah Penggunaan Program
 1. Jika ingin menambahkan **studi kasus**, masukkan **studi kasus** dalam folder `test` dengan ekstensi `.txt`. Contohnya `small1.txt`
 2. Jalankan program melalui cara **A** atau cara **B** yang telah disinggung sebelumnya
-3. Masukkan nama file tanpa mencantumkan ekstensi `.txt`
+3. Masukkan nama file tanpa mencantumkan ekstensi `.txt`. Contohnya `small1`
 4. Selamat melihat program menyelesaikan _Word Search Puzzle_ :)
 
 # Penulis
