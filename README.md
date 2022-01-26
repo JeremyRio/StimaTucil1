@@ -42,6 +42,9 @@ Jalankan `run.bat` pada folder `bin` untuk memulai program _Word Search Puzzle_
 
 ### B. Melalui **Command Prompt/Powershell** (**Windows**)
 1. Atur path folder menjadi `Tucil1_13520082/bin`
+
+![image](https://user-images.githubusercontent.com/73146752/151102124-4c058900-38bd-493e-88c1-cd77c12f22aa.png)
+
 2. Jalankan perintah berikut untuk memulai program _Word Search Puzzle_:
 ```
 javac -d ../bin ../src/Puzzle.java
