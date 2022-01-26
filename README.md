@@ -11,6 +11,7 @@
 Membuat program untuk menemukan semua kata di dalam _word search puzzle_ menggunakan algoritma _Brute Force_ 
 
 ## Requirements
+- Windows **(Reccomended)**
 - [Java](https://www.java.com/en/download/)
 - [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/downloads/)
 
