@@ -1,36 +1,36 @@
 K	L	I	R	H	D	P	R	B	N	U	P	I	V	I	V	Q	F	Y	Q	X	L	Y	X	G	S	W	R	B	D	Y	L	H	 
-W	T	U	E	T	I	R	K	V	J	K	W	Q	A	H	S	M	E	V	K	M	K	R	W	Q	Y	U	A	X	X	K	Z	G	 
-F	N	D	A	A	D	Z	D	A	H	P	J	W	Q	V	W	D	L	W	K	Z	A	W	L	C	F	E	P	H	K	H	D	B	 
-B C A F R U F B N D G G V E N Q T E E M M K T F G E M M Y Z C B R
-S U Z H D L M Y A J S W Z G A J G P I L V E A A H F W W Y A K W X
-L G I B N L B A N H W Q Z D D T Z H C Z L F V B U F C W E D Z F J
-C E K N M X K B T P U M H K G I R A F F E E A H R D K G M R A L V
-P W Y V H G Q I E Y P S N Y L A G N E D G B R M Y D F K W J F J N
-V S N I S C S L L T U O S K R K N T C U W X O D E B Z D L M Z I N
-Q H R I C E H L O H J A G G M V V B Z O U Z O K Y L K K B G W B A
-V D E Y C T A K P Y X Z W T R F D H S K X M V L O O R A G N A K Y
-C Z G I F M M K E D M B A O A U S E H I F S B E I D J D H Y B T Z
-N D R H Z V D S I M S Z H N R X Q E T G S J T H B E U J G H Z U E
-R V C O G Q P V Z Q Z R V T W O D D S U D B X P S T Y O B I F D X
-I T R J C Y F N Y D Z T W X I M E M W I X Y M E D F E N X P L C K
-V X N T E B T M L K U Y Z Q F T T V P K H I O X P S T K D P M H J
-R J K U O V J B C T Q T G C X F G R C E A I I P V F E U Y O T I E
-A G U G P H O V X Z Q W X N K O F F S G U D V Q Y P K F B W W C W
-A J W V C T X Q X F C E N Y R C I Z C I U W H T M P Y E N I Q K C
+W	T	U	E	T	I	R	K	V	J	K	W	Q	A	H	S	M	E	V	K	M	K	R	W	Q	Y	U	A	X	X	V	Z	G	 
+F	N	D	A	A	D	Z	D	A	H	P	J	W	Q	V	W	D	L	W	K	Z	A	W	L	C	F	E	P	H	U	H	D	B	 
+B C H F R U F B N D G G V E N Q T E E M M K T F G E M M L Z C B R
+S U Z C D L M Y A J S W Z G A J G P I L V E A A H F W T Y A K W X
+L G I B I L B A N H W Q Z D D T Z H C Z L F V B U F U W E D Z F J
+C E K N M R K B T P U M H K G I R A F F E E A H R R K G M R A L V
+P W Y V H G T I E Y M S N Y L A G N E D G B R M E D F K W J F J N
+V S N I S C S S L I O N S K R K N T C U W X O D E B Z D L M Z I N
+Q H R I C E H L O H N A G G M V V B Z O U Z O K Y L K K B G W B A
+V D E Y C T A K P Y K Z W T R F D H S K X M V L O O R A G N A K Y
+C Z G I F M M K E D E B A O A U S T H I F S B E I D J D H Y B T Z
+N D R H Z V D S I M Y Z H N R X Q O T G S J T H B E U J G H Z U E
+R V C O S Q P V Z Q Z R V T W O D R S U D B X P S T Y O B I F D X
+I T R J N Y F N Y D Z T W X I M E T W I X Y M E D F E N X P L C K
+V X S H A R K M L K U Y Z Q F T T O P K H I O X P S T K D P M H J
+R J K U K V J B C T Q T G C X F T I G E R I I P V F E U Y O T I E
+A G U G E H O V X Z Q W X N K O F S S G U D V Q Y P K F B W W C W
+A J W V C T X Q X F C E N Y R C I E C I U W H T M P Y E N I Q K C
 M S O L I E J F Y K Y X Q I K Z L Z N X W E M H L D U K Z M W E O
 U K F Q E E Q G L H A D L T F E C A H M K S J A T Z W V L S A N C
-R B E A R L N S Q R C L R Y D Z Y B B G Z I C E U F I K Y R R K A
-X O G Y V N A G N U A D Q L V T D B V P F O Q G O T J D N O K J X
-Q Y C T A K P G Z L I Z J M Z H F G C W H R G N N P U U Z Z H Z Y
-T J A Q J Y D I O F W B S U D N Z M E L I D O C O R C F C I N E Y
-M Q B R W K N L X G C A L P G C O W V S I K U M I T D H T F S B D
-U X L L T D F C I U H K P L B A J H E B O M C K J Z S A A V O R B
-Q C P C Q S K S S O J K C K Y M G U Y I X R A J G H I D V U E G I
-O R H L M F X J R B E M R E J E B B X J N N R M Z N C I M D I Q J
+R B E A R L N S Q T O R T O F S E B B G Z I C E U F I K Y R R K A
+X O G Y V N A G N U A D Q L V L D B V P F O Q G O T J D N O K J X
+Q Y C T A K P G Z L I O P P A G O R I L L A G N N P U U Z Z H Z Y
+T J A Q J Y D I O F W B S U D N Z W H A L E O C O R C F C I N E Y
+M Q B R W K N L X G C A L P G C O W V S I T U M I T D H T F S B D
+U X L L T D F C I U H K P L B A J H E B O M U K J Z S A A V O R B
+Q C P C Q S K S S O J K C K Y M G U Y I X R A R G H I D V U E G I
+O R H L M F X J R B E M R E J E B B X J N N R M E N C I M D I Q J
 C O P I D Z Y L T Q W P S V J L L Y M S L N L Y M Q G D M N E T D
 G V H J E R O J L Z P L U S T O K Y W J A Z E C W I L H U A L Q Z
 Z E E T C Q P W T W S J Q P E U Q A T F P Z G B X V X V T H C D G
-V I H D J R D R Q H U R U X H N A Z A W J E N R F G C B M J I S K
+V I H D J R D R Q H U E L I D O C O R C J E N R F G C B M J I S K
 
 ANTELOPE
 BEAR
@@ -41,3 +41,14 @@ ELEPHANT
 GIRAFFE
 HIPPO
 KANGAROO
+LION
+MONKEY
+OSTRICH
+SHARK
+SNAKE
+TIGER
+TORTOISE
+VULTURE
+WHALE
+WOLF
+GORILLA

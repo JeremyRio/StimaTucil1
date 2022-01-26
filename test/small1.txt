@@ -1,26 +1,23 @@
-J U P I T E R S F H D S Z S C K 
-K A G V B H S M V T Z A A M P Y 
-X Y N F O T O H I H I T X M T M 
-R G D R H R I L D T R U A U P F 
-D J L E U A N T T M E R C U R Y 
-I X F T C E H B L A S N I M S K 
-K K P S P Q Q W D N N V Y G T W 
-L V M T R Z M H J Z H V H P V N 
-N D U J C A Q D T Z H K W U X N 
-E N Y X P I M O E A J Y D S S I 
-E C W M Z W Y H Q G G L C B G T 
-C B N U Q S U R P E I O T U L O 
-E P W L U U O Q F N L Q P M O M 
-L U J N N N S W L G W S B Q I T 
-U Q A E N E P T U N E C Y P D A 
-Z R O P J V F T K G O X D V K H 
-U W Y V Z M K P Y D L B L X X N
+X C C V P R H R H Y H M X R F 
+Z R Z A B Q T E Y S O T S C I 
+T A I K P I X M N M M P K D D 
+C E U U Z T J O Q Z V O F R K 
+L M U C U S I P Y X P J Y G N 
+M O R S T T Y O O T B F J P O 
+I T N U C I F G N K E E Z T F 
+Z I B A J F O B O X D L R W T 
+P O T D P G M N K I C G P V I 
+M N I T C F G X T G C Y C W D 
+M J V E I N O I T C A F R Z A 
+Z D L F V O O P N H P F S B O 
+L K P J I N Y P H C X B M X X 
+D T K A E R W K E A T P J V C 
+C V B J H U Z F I C T I O N A
 
-EARTH
-JUPITER
-MARS
-MERCURY
-NEPTUNE
-SATURN
-URANUS
-VENUS
+ACTION
+AUCTION
+CAPTION
+EDITION
+EMOTION
+FACTION
+FICTION

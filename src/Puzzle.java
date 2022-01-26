@@ -30,7 +30,7 @@ public class Puzzle {
       System.out.print("Masukkan nama file (tanpa .txt): ");
       FILENAME = in.nextLine();
       try {
-        FILE = new Scanner(new File("test/" + FILENAME + ".txt"));
+        FILE = new Scanner(new File("../test/" + FILENAME + ".txt"));
         fileFound = true;
       } catch (Exception e) {
         System.out.println("Tidak ada nama File tersebut, ulangi.\n");
@@ -55,7 +55,7 @@ public class Puzzle {
     FILE.close();
 
     try {
-      FILE = new Scanner(new File("test/" + FILENAME + ".txt"));
+      FILE = new Scanner(new File("../test/" + FILENAME + ".txt"));
       fileFound = true;
     } catch (Exception e) {
       System.out.println("Ada error dalam pembacaan file.");
@@ -111,9 +111,11 @@ public class Puzzle {
     /* ALGORITMA */
     wordLength = word.length();
     stepCounter++;
+
+    /* Algoritma Brute Force */
     if (board[i][j] == word.charAt(0)) {
 
-      /* Memeriksa puzzle ke atas */
+      /* Memeriksa huruf ke arah atas */
       k = 1;
       while (i - k >= 0 && k < wordLength && !next) {
         stepCounter++;
@@ -135,7 +137,7 @@ public class Puzzle {
         next = false;
       }
 
-      /* Memeriksa puzzle ke diagonal kiri atas */
+      /* Memeriksa huruf ke arah diagonal kiri atas */
       while (i - k >= 0 && j + k < col && k < wordLength && !next) {
         stepCounter++;
         if (word.charAt(k) == board[i - k][j + k]) {
@@ -156,7 +158,7 @@ public class Puzzle {
         next = false;
       }
 
-      /* Memeriksa puzzle ke kanan */
+      /* Memeriksa huruf ke arah kanan */
       while (j + k < col && k < wordLength && !next) {
         stepCounter++;
         if (word.charAt(k) == board[i][j + k]) {
@@ -177,7 +179,7 @@ public class Puzzle {
         next = false;
       }
 
-      /* Memeriksa puzzle ke diagonal kanan bawah */
+      /* Memeriksa huruf ke arah diagonal kanan bawah */
       while (i + k < row && j + k < col && k < wordLength && !next) {
         stepCounter++;
         if (word.charAt(k) == board[i + k][j + k]) {
@@ -198,7 +200,7 @@ public class Puzzle {
         next = false;
       }
 
-      /* Memeriksa puzzle ke bawah */
+      /* Memeriksa huruf ke arah kanan bawah */
       while (i + k < row && k < wordLength && !next) {
         stepCounter++;
         if (word.charAt(k) == board[i + k][j]) {
@@ -219,8 +221,8 @@ public class Puzzle {
         next = false;
       }
 
-      /* Memeriksa puzzle ke diagonal kiri bawah */
-      while (i + k > row && j - k >= 0 && k < wordLength && !next) {
+      /* Memeriksa huruf ke arah diagonal kiri bawah */
+      while (i + k < row && j - k >= 0 && k < wordLength && !next) {
         stepCounter++;
         if (word.charAt(k) == board[i + k][j - k]) {
           k++;
@@ -240,7 +242,7 @@ public class Puzzle {
         next = false;
       }
 
-      /* Memeriksa puzzle ke kiri */
+      /* Memeriksa huruf ke arah kiri */
       while (j - k >= 0 && k < wordLength && !next) {
         stepCounter++;
         if (word.charAt(k) == board[i][j - k]) {
@@ -261,7 +263,7 @@ public class Puzzle {
         next = false;
       }
 
-      /* Memeriksa puzzle ke diagonal kiri atas */
+      /* Memeriksa huruf ke arah diagonal kiri atas */
       while (i - k >= 0 && j - k >= 0 && k < wordLength && !next) {
         stepCounter++;
         if (word.charAt(k) == board[i - k][j - k]) {

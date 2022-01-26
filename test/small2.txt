@@ -1,23 +1,25 @@
-X C C V P R H R H Y H M X R F 
-Z R Z A B Q T E Y S O T S C I 
-T A I K P I X M N M M P K D D 
-C E U U Z T J O Q Z V O F R K 
-L M U C U S I P Y X P J Y G N 
-M O R S T T Y O O T B F J P O 
-I T N U C I F G N K E E Z T I 
-Z I B A J F O B O X D L R W T 
-P O T D P G M N K I C G P V I 
-M N I T C F G X T G C Y C W D 
-M J V E I N O I T C A F R Z E 
-Z D L F V O O P N H P F S B O 
-L K P J I N Y P H C X B M X X 
-D T K A E R W K E A T P J V C 
-C V B J H U Z F I C T I O N A
+S Q T T N L C Y I O U M R S D K 
+F S D W D G W S H U M X Q Y Y M 
+K R K Z O M O N I Q M Z R Q D C 
+J X O M N M R N E Q Y O Y H L P 
+F G T G J J R Z U Y N X Z F P H 
+F N D K G E U A S A V I R B R C 
+B W T I S E B B F H O L E X S O 
+K L R U M D R Q B S C E N R A B 
+F E O C O Q B Y E K H N C O O H 
+I W W S S D A V R I E M H J J P 
+H X O A M L I C V E D H B E B U 
+M B R K Y H S E X A T C W C B C 
+Q Z F C E T U C H I R T B P Z I 
+E D D E L I R D Z S H U A C T L 
+L V S H M S X I U N O H A C O A 
+V Q P L D E N U Y T U G A I O E
 
-ACTION
-AUCTION
-CAPTION
-EDITION
-EMOTION
-FACTION
-FICTION
+BARN
+BURROW
+CATTERY
+DEN
+FARM
+FROGGERY
+HOLE
+HUTCH
