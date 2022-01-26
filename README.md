@@ -49,7 +49,7 @@ Jalankan `run.bat` pada folder `bin` untuk memulai program _Word Search Puzzle_
 2. Jalankan perintah berikut untuk memulai program _Word Search Puzzle_:
 ```
 javac -d ../bin ../src/Puzzle.java
-java -cp ../bin Puzzle
+java Puzzle
 ```
 
 ### Langkah Penggunaan Program
