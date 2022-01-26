@@ -8,7 +8,7 @@
 * [Penulis](#penulis)
 
 ## Deskripsi
-Membuat program untuk menemukan semua kata di dalam word search puzzle menggunakan algoritma _Brute Force_ 
+Membuat program untuk menemukan semua kata di dalam _word search puzzle_ menggunakan algoritma _Brute Force_ 
 
 ## Requirements
 - [Java](https://www.java.com/en/download/)
