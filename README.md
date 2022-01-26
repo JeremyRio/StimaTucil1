@@ -36,6 +36,7 @@ Program hanya dapat dijalankan dalam sistem operasi **Windows**. Sebagian besar 
 ![image](https://user-images.githubusercontent.com/73146752/150827213-e8259d27-cf09-4449-a610-4fcf5702a05c.png)
 ![image](https://user-images.githubusercontent.com/73146752/150827266-b4c10e17-72c5-4fdb-8484-59e7721c2ac7.png)
 
+### Langkah Menjalankan Program
 ### A. Melalui _Batch File_ / `run.bat` (**Windows**)
 `run.bat` akan melakukan kompilasi program secara otomatis melalui **Command Prompt**.</br>
 Jalankan `run.bat` pada folder `bin` untuk memulai program _Word Search Puzzle_
